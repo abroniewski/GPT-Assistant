@@ -1,4 +1,27 @@
-# [Project Title]
+# ChatGPT Doc Trainer
+
+This project aims to train OpenAI's ChatGPT using local documents and develop prompts to generate desired results. It provides a flexible and collaborative environment for training and experimenting with ChatGPT.
+
+## Features
+
+- Train ChatGPT with local documents, including text files, PDFs, CSVs, and more.
+- Develop prompts to generate specific content.
+- Save results in a format that can be easily accessed and shared.
+- Sync the project to Git for collaborative development.
+
+## Setup
+
+1. Clone the repository: `git clone [repository-url]`
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Prepare your training data by placing the documents in the designated directory.
+4. Run the training script: `python train.py`
+
+## Usage
+
+1. Ask general questions to create effective prompts.
+2. Experiment with different training strategies and document sources.
+3. Adjust hyperparameters and model settings to achieve desired results.
+4. Save the generated content locally for further analysis and sharing.
 
 ## Getting Started
 
